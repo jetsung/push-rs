@@ -1,0 +1,15 @@
+[package]
+name = "pushed"
+version = "0.1.0"
+description = "消息推送"
+edition = "2021"
+repository = "https://github.com/jetsung/push-rs"
+license = "Apache-2.0"
+authors = "jetsung Chan <jetsungchan@gmail.com>"
+keywords = ["push", "pusher"]
+
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
